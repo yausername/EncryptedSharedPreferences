@@ -23,5 +23,5 @@ allprojects {
 Step 2: Add the dependency
 ```gradle
 dependencies {
-    implementation 'com.github.yausername:EncryptedSharedPreferences:master-SNAPSHOT'
+    implementation 'com.github.yausername:EncryptedSharedPreferences:1.0.0-beta01'
 }
